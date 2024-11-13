@@ -1,8 +1,8 @@
+modification du README
+
 Voici une description générique pour un projet nommé **MonProjetGit**. Cette description peut être adaptée pour différents types de projets.
 
 ---
-
-## MonProjetGit
 
 **MonProjetGit** est un projet de gestion et de suivi de versions, conçu pour démontrer et pratiquer les compétences en **utilisation de Git et GitHub**. Ce projet sert de base pour apprendre à gérer efficacement un dépôt Git, collaborer en équipe, et maintenir une historique de modifications clair et documenté.
 
