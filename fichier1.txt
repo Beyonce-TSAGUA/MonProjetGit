@@ -10,18 +10,18 @@
             font-family: Times New Roman;
             line-height: 1.6;
             color: #333;
-            margin: 0;
-            padding: 0;
+            margin: 10;
+            padding: 10;
             background-color: #f4f4f9;
         }
-
+//selecteur h1
         h1 {
             text-align: center;
             background-color: #24292e;
             color: #ffffff;
             padding: 20px;
         }
-
+//selecteur h2
         h2 {
             color: #24292e;
         }
@@ -29,7 +29,7 @@
         /* Style du conteneur principal */
         .container {
             width: 90%;
-            max-width: 800px;
+            max-width: 750px;
             margin: 20px auto;
             padding: 20px;
             background-color: #ffffff;
