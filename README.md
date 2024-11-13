@@ -1,3 +1,5 @@
+modification du README
+
 Voici une description générique pour un projet nommé **MonProjetGit**. Cette description peut être adaptée pour différents types de projets.
 
 ---
