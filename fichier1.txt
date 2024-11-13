@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Présentation de GitHub et Bash</title>
+    <style>
+        /* Styles globaux */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+
+        h1 {
+            text-align: center;
+            background-color: #24292e;
+            color: #ffffff;
+            padding: 20px;
+        }
+
+        h2 {
+            color: #24292e;
+        }
+
+        /* Style du conteneur principal */
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        /* Style des sections GitHub et Bash */
+        .section {
+            margin-bottom: 20px;
+        }
+
+        .section p {
+            text-align: justify;
+        }
+
+        /* Liens */
+        a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Bouton */
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #24292e;
+            color: #ffffff;
+            text-align: center;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+        .btn:hover {
+            background-color: #333333;
+        }
+
+        /* Images */
+        .image {
+            max-width: 100%;
+            height: auto;
+            margin: 10px 0;
+            border-radius: 8px;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #24292e;
+            color: #ffffff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <!-- Titre principal de la page -->
+    <h1>Présentation de GitHub et Bash</h1>
+
+    <!-- Conteneur principal de contenu -->
+    <div class="container">
+        <!-- Section GitHub -->
+        <div class="section" id="github">
+            <h2>GitHub</h2>
+            <p>
+                GitHub est une plateforme de développement collaboratif permettant d’héberger et de gérer des projets. Il est basé sur Git, un système de gestion de versions distribué qui facilite le suivi des modifications dans le code source. GitHub est largement utilisé pour la collaboration, la gestion des pull requests, et l’hébergement de projets open-source.
+            </p>
+            <p>
+                GitHub offre de nombreuses fonctionnalités comme les issues pour le suivi des bogues, les actions pour l’intégration continue, et les pages GitHub pour héberger des sites statiques. Il permet aussi de garder un historique complet des changements et de collaborer efficacement avec d’autres développeurs.
+            </p>
+            <a href="https://github.com/" class="btn" target="_blank">Visiter GitHub</a>
+        </div>
+
+        <!-- Section Bash -->
+        <div class="section" id="bash">
+            <h2>Bash</h2>
+            <p>
+                Bash (Bourne Again SHell) est un interpréteur de commandes largement utilisé sur les systèmes d'exploitation basés sur Unix comme Linux et macOS. Bash permet aux utilisateurs d'exécuter des commandes en ligne de commande, de manipuler des fichiers, et d’automatiser des tâches grâce aux scripts Bash.
+            </p>
+            <p>
+                En plus d'exécuter des commandes, Bash est très puissant pour les tâches de gestion de système, l'administration, et l'automatisation. Il dispose de nombreuses fonctionnalités comme les boucles, les conditions, et les fonctions, permettant ainsi aux utilisateurs d'écrire des scripts pour des processus complexes.
+            </p>
+            <a href="https://www.gnu.org/software/bash/" class="btn" target="_blank">En savoir plus sur Bash</a>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        © 2024 MonProjetGit - Présentation de GitHub et Bash
+    </footer>
+</body>
+</html>
