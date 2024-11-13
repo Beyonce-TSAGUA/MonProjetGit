@@ -8,7 +8,6 @@ Le code combine HTML et CSS dans un seul fichier pour afficher une page simple m
 - Un **bouton** permettant de visiter des sites externes pour plus d'informations.
 - Un **footer** en bas de page.
 
-### Détails des Sections
 
 #### 1. Balises `<head>` et `<style>`
 
