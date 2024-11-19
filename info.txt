@@ -1,1 +1,5 @@
+
 Modification dans "Main"
+
+Modification dans "feature-c"
+>>>>>>> 1adeb1b (Ajout du fichier info.txt)
