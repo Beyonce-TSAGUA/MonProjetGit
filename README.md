@@ -13,8 +13,6 @@ modification du README
 
 1. **Suivi des Versions** : Utilisation des branches pour le développement de fonctionnalités, des tags pour les versions, et des pull requests pour la revue de code.
 2. **Documentation** : Documentation détaillée des fonctionnalités, du guide d'installation et des instructions de contribution dans un fichier `README.md`.
-3. **Intégration Continue (CI)** : Intégration d'un pipeline CI pour automatiser les tests et assurer la qualité du code.
-4. **Gestion des Bugs et des Fonctionnalités** : Utilisation des issues GitHub pour suivre les bugs et les demandes de nouvelles fonctionnalités.
 
 ### Structure du Projet
 
