@@ -26,7 +26,6 @@ modification du README
 
 - **Git** : Pour la gestion de versions.
 - **GitHub** : Pour l’hébergement du code, la collaboration et la gestion des pull requests et issues.
-- **CI/CD** : Pour l’intégration continue et le déploiement (GitHub Actions ou un autre outil d'intégration).
 
 ### Guide d'Installation
 
